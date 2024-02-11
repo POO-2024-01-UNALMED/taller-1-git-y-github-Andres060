@@ -1,3 +1,7 @@
 Julian Caldera
 18
 Aprender mas acerca de la programacion y diferentes lenguajes.
+
+La carpeta subio en el commit ya que tenia contenido dentro de la carpeta.
+
+Es importante tener cuidado, ya que se pueden generar conflictos al cargar todo el contenido.
